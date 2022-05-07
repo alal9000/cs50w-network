@@ -98,4 +98,5 @@ def profile(request, user_id):
 def following(request):
     post = post
     #tthis is a test hello
+    #hi 
     return render(request, 'network/following.html')
