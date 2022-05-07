@@ -100,4 +100,5 @@ def following(request):
     #tthis is a test hello
     #hi 
     #hihihi
+    #hihihi
     return render(request, 'network/following.html')
